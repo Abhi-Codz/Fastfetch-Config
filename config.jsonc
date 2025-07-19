@@ -1,3 +1,11 @@
+//   _____ _____ _____ _____ _____ _____ _____ _____ _____ 
+//  |   __|  _  |   __|_   _|   __|   __|_   _|     |  |  |
+//  |   __|     |__   | | | |   __|   __| | | |   --|     |
+//  |__|  |__|__|_____| |_| |__|  |_____| |_| |_____|__|__|  Custom-1  
+//
+//  Improvised by  Codz
+
+
 {
     "$schema": "https://github.com/fastfetch-cli/fastfetch/raw/dev/doc/json_schema.json",
     "display": {
@@ -5,7 +13,7 @@
         "color": "magenta"
       },
     "logo": {
-        "source": "C:/users/KIIT/Downloads/siesta_braille3.txt",
+        "source": "C:/users/KIIT/Downloads/siesta_braille3.txt", // Logo of your choice
         "type": "auto"
     },
     "modules": [
@@ -61,7 +69,7 @@
     {
       "type": "wm",
       "key": "│ ├> WM",
-      "format": "Komorebi (DWM base)",  
+      // "format": "Komorebi (DWM base)",  
       "keyColor": "red"
     },
     {
@@ -161,4 +169,5 @@
       }
     ]
   }
-  
+
+// If you hadn't noticed, the FASTFETCH title at the start of the file was copied from Bina - Github: LierB
